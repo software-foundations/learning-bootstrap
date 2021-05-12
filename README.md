@@ -10,10 +10,13 @@ Bootstrap concepts
 - Note: bootstrap 5 remove jQuery dependency
 
 - In js folder:
-1. popper.min.js
-2. bootstrap.min.js
+1. bootstrap.min.js
 
 - In css folder:
 1. bootstrap.min.css
 
 - The other files will not be used, but they could be
+
+## Adding Navigation
+
+[index.html](coder/exercicios/index.html)
